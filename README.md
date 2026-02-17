@@ -2,9 +2,7 @@
 group project repo
 
 ## Team Members
-- Member 1
-- Member 2
-
+Nelly, Han, London
   ## Project Idea
   We will design and implement a Linux Live Response Digital Forensics Collector, using Bash scripting. The tool will perform read-only evidence collection on a running Linux system, preserving forensic artifacts while maintaining forensic integrity.
 
